@@ -1,7 +1,7 @@
 {
   "name": "deadlockpckg",
-  "version": "1.0.0",
-  "description": "Tracking package for deadlock",
+  "version": "1.0.1",
+  "description": "Deadlock protocol core package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,7 @@
     "url": "git+https://github.com/TheWeirdDee/deadlockpckg.git"
   },
   "keywords": [
-    "deadlock",
-    "tracking"
+    "deadlock"
   ],
   "author": "TheWeirdDee",
   "license": "MIT",
