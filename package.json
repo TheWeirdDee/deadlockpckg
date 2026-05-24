@@ -1,6 +1,6 @@
 {
   "name": "deadlockpckg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deadlock protocol core package",
   "main": "index.js",
   "scripts": {
