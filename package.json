@@ -1,0 +1,23 @@
+{
+  "name": "deadlockpckg",
+  "version": "1.0.0",
+  "description": "Tracking package for deadlock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWeirdDee/deadlockpckg.git"
+  },
+  "keywords": [
+    "deadlock",
+    "tracking"
+  ],
+  "author": "TheWeirdDee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWeirdDee/deadlockpckg/issues"
+  },
+  "homepage": "https://github.com/TheWeirdDee/deadlockpckg#readme"
+}
